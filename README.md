@@ -48,37 +48,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeepMcodex&theme=github_dark" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandeepMcodex&theme=github_dark" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepMcodex&theme=github_dark" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandeepMcodex&theme=github_dark" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepMcodex&theme=github_dark" height="180em" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<h2 align="left">⚡ Activity Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepMcodex&theme=github-dark" />
-</div>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandeepMcodex&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepMcodex&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepMcodex&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=sandeepMcodex&style=for-the-badge)
-
----
 
 # 🏆 Hacktoberfest & Holopin Badges  
 [![An image of @sandeepmaurya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandeepmaurya)](https://holopin.io/@sandeepmaurya)
