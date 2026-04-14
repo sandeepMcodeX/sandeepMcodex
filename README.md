@@ -3,17 +3,6 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
----
-
-- 🔭 I’m a **Full Stack Developer**  
-- 🌱 I’m currently learning **Generative AI, System Design, and FastAPI**  
-- 💬 Ask me about **MERN Stack, Next.js, and DSA**  
-- 📫 Reach me at **sandeepcodex.dev@gmail.com**  
-- ⚡ Fun fact: I love solving logical problems & building hackathon projects 🚀  
-
-
----
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,7 +32,3 @@
 > I'm a curious and passionate developer who loves turning ideas into reality through clean code and creative design.  
 > Currently exploring advanced concepts in **Full Stack Development, Generative AI, and System Design** to build scalable and efficient solutions.
 
----
-
-⭐ *"Code. Learn. Build. Repeat."*  
-💫 *Let's connect, collaborate, and grow together!*
